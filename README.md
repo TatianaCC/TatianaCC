@@ -24,8 +24,8 @@
 <a href="https://camo.githubusercontent.com/5603e24b61199730db8d47721aeb6b7e6e0517ee6f43bb6762552a4d625607c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" target="_blank" rel="noopener noreferrer">
   <img src="https://camo.githubusercontent.com/5603e24b61199730db8d47721aeb6b7e6e0517ee6f43bb6762552a4d625607c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="30" alt="Python Logo">
 </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg.png" height="30" alt="C++ Logo">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="C++ Logo">
 </a>
 
 <a href="https://camo.githubusercontent.com/fcd000e9344df44c6d925af7b1d1fa26309ab2f14739b9e72f0d112940833bda/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f616e61636f6e64612f343441383333" target="_blank" rel="noopener noreferrer">
