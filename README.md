@@ -4,4 +4,5 @@
 <img src="./Images/JuniorIntro.svg"width="100%">
 
 <!-- Agrega tus estadísticas de GitHub aquí -->
-[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TatianaCC)](https://github.com/TatianaCC) 
+[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TatianaCC) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatianaCC)](https://github.com/TatianaCC)
