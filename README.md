@@ -9,7 +9,7 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaCC" alt="GitHub Streak" style="display: inline-block; width: 290px;height: 120px;">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaCC&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 200px;height: 120px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaCC&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 290px;height: 120px;">
 </div>
 
 
