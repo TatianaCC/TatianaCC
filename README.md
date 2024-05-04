@@ -3,4 +3,5 @@
 </div>
 <img src="./Images/JuniorIntro.svg"width="100%">
 
-
+<!-- Agrega tus estadísticas de GitHub aquí -->
+[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TatianaCC)](https://github.com/TatianaCC) 
