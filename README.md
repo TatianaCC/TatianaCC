@@ -5,10 +5,11 @@
 <!-- Contenedor flexbox para las estadísticas de GitHub -->
 <div style="display: flex; justify-content: center;">
   <!-- Estadísticas de GitHub -->
-  [![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TatianaCC)](https://github.com/TatianaCC)
+  <img src="https://github-readme-stats.vercel.app/api?username=TatianaCC" alt="Tus estadísticas de GitHub">
   <!-- GitHub Streak -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatianaCC)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaCC" alt="GitHub Streak">
   <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaCC&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaCC&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
+
 
