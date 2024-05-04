@@ -5,4 +5,5 @@
 
 <!-- Agrega tus estadísticas de GitHub aquí -->
 [![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TatianaCC) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatianaCC)](https://github.com/TatianaCC)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatianaCC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaCC&include_all_commits=false&count_private=false&layout=compact)](https://github.com/TatianaCC)
