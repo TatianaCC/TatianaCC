@@ -45,8 +45,8 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/ca/Phan-mem-r-studio.png" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Phan-mem-r-studio.png" height="30" alt="Rstudio Logo">
 </a>
-<a href="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_logo.svg" target="_blank" rel="noopener noreferrer">
-  <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_logo.svg" height="30" alt="Pandas Logo">
+<a href="https://pandas.pydata.org/static/img/pandas_secondary.svg" target="_blank" rel="noopener noreferrer">
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" height="30" alt="Pandas Logo">
 </a>
 <a href="https://camo.githubusercontent.com/de84065a689ffae05732294fc131cdc6657fba6a0b139fb13ce3e8e6121a7da9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" target="_blank" rel="noopener noreferrer">
   <img src="https://camo.githubusercontent.com/de84065a689ffae05732294fc131cdc6657fba6a0b139fb13ce3e8e6121a7da9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" height="30" alt="NumPy Logo">
