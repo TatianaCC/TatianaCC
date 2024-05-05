@@ -148,6 +148,7 @@ Recently interested in:
 <p align="center">
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
+<div>
 | #   | Proyect                                          | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 1   | Descriptive Statistics                           | [accede](https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python) |
@@ -164,32 +165,38 @@ Recently interested in:
 | 12  | Temporal Series                                  | [accede](https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC) |
 | 13  | Clustering-Basic (K-Means)                       | [accede](https://github.com/4GeeksAcademy/kMeans_TatianaCC) |
 | 14  | SVM                                              | [accede](https://github.com/4GeeksAcademy/SVM-TatianaCC) |
-
+</div>
 
 ## Astro-Projects
 <p align="center">
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
+<div>
 | #   | Proyect                                                 | Link                                                  |
 | --- | ---------------------------------------------           | -------------------------------------------------------- |
 | 1   | Gult Belt stellar system (Collaboration with IAA-CSIC)  | [accede](https://github.com/TatianaCC/IAA_Project) |
+</div>
 
 ## Tools
 <p align="center">
   <img src="./Images/Tools.svg" width="100%">
 </p>
+<div>
 | #   | Proyect                                                 | Link                                                  |
 | --- | ---------------------------------------------           | -------------------------------------------------------- |
 | 1   | Library for complete EDA (Collaboration with @milser)   | [accede](https://github.com/milser/edas_tatianamilser) |
+</div>
 
 ## Future Projects
 <p align="center">
   <img src="./Images/Open.svg" width="100%">
 </p>
+<div>
 | #   | Proyect                                                                     | 
 | --- | ----------------------------------------------------------------------------| 
 | 1   | Identification of stellar structures through clustering                     | 
 | 2   | Morphological classification of galaxies using DNN (Deep Neural Networks)   | 
+</div>
 
 If you're interested in any of these projects, let's work together!
 
