@@ -215,16 +215,30 @@ Recently interested in:
   <img src="./Images/Tools.svg" width="100%">
 </p>
 
-<a class="btn" href="https://github.com/milser/edas_tatianamilser">Library for complete EDA (Collaboration with @milser)</a>
+<table align="center">
+  <tr>
+    <td  width="100%">
+      <a class="btn" href="https://github.com/milser/edas_tatianamilser">Library for complete EDA (Collaboration with @milser)</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Future Projects
 <p align="center">
   <img src="./Images/Open.svg" width="100%">
 </p>
 
-<a class="btn" href="mailto:tatianacazorlacabezas@email.com">Identification of stellar structures through clustering </a>
-<a class="btn" href="mailto:tatianacazorlacabezas@email.com">Morphological classification of galaxies using DNN (Deep Neural Networks)</a>
-
+<table align="center">
+  <tr>
+    <td  width="100%">
+      <a class="btn" href="mailto:tatianacazorlacabezas@email.com">Identification of stellar structures through clustering </a>
+    </td>
+    <td  width="100%">
+      <a class="btn" href="mailto:tatianacazorlacabezas@email.com">Morphological classification of galaxies using DNN (Deep Neural Networks)</a>
+    </td>
+  </tr>
+</table>
 
 If you're interested in any of these projects, let's work together!
 
