@@ -150,7 +150,7 @@ Recently interested in:
 </p>
 
 <table>
-  <tr>
+  <tr  width="100%">
     <td>
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
     </td>
