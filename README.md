@@ -248,5 +248,8 @@ Recently interested in:
   </tr>
 </table>
 
-If you're interested in any of these projects, let's work together!
+<p align="left">
+    If you're interested in any of these projects,<a href="mailto: tatianacazorlacabezas@gmail.com" class="btn">let's work together!</a>
+</p>
+
 
