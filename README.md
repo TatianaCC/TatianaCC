@@ -103,6 +103,70 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="30" alt="wordpress Logo">
 </a>
 
+## About me
+Physics specialized in astrophysics, cosmology, biophysics, and complex systems, currently working in R&D in biotechnology. Starting in Data Science and Machine Learning. Engaging in science communication in Spanish through various formats (blog, podcast, talks, etc.) Science rocks!
+
+## Idioms.
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
+</a>
+
+# Experience IT:
+
+## Currently
+- At Enzymlogic S.L: 
+    - Resolution of mathematical models and parameter estimation through numeric methods and regression.
+    - Development of specific software for data analysis and model coupling with graphical user interface.
+    - Development of automated digital work environments, with databases and various analysis and management software.
+- Student at 4Geeks Academy (Data Science and Machine Learning Bootcamp)
+
+## Other IT experience:
+- At Astronomy Center (University of Sussex):
+    - Internship at Testing cosmological models.
+
+## Other IT courses:
+- Complete Machine Learning course: Data Science in Python (48.5h - 2020)
+- Learning Python for Data Analysis and Visualization (21h - 2020)
+- Python for scientific and technical calculation (120h - 2019)
+
+## My CV
+<a href="https://drive.google.com/file/d/1NNjN7rWYCHAg7EynrN-Lw17jXDvatkTk/view?usp=drive_link">Access</a>
+
+## Exploring
+Recently interested in:
+- Deep learning
+- GEN AI
+- Advanced Natural Language Processing (NLP)
+- Databases
+- Graphical user interfaces
+- Ethics in Data Science
+
+## 4Geeks Academy Projects
+
+<p align="center">
+  <img src="./Images/4Geeks.svg" width="100%">
+</p>
+
+| #   | Proyect                                          | Link                                                  |
+| --- | ---------------------------------------------    | -------------------------------------------------------- |
+| 1   | Descriptive Statistics                           | [accede](https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python) |
+| 2   | Algorithm Optimization                           | [accede](https://github.com/TatianaCC/algorithm-optimization-project-machine-learning) |
+| 3   | SQL Database                                     | [accede](https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial) |
+| 4   | Web Scraping                                     | [accede](https://github.com/TatianaCC/web-scraping-project-tutorial) |
+| 5   | API Python                                       | [accede](https://github.com/TatianaCC/interacting-with-api-python-project-tutorial) |
+| 6   | First EDA                                        | [accede](https://github.com/TatianaCC/machine-learning-python-template) |
+| 7   | Linear Regression                                | [accede](https://github.com/4GeeksAcademy/machine-learning-python-template-LinearRegression) |
+| 8   | Regularized Linear Regression                    | [accede](https://github.com/4GeeksAcademy/regularized_linear_model) |
+| 9   | Decision Tree, Random Forest and Boosting        | [accede](https://github.com/4GeeksAcademy/decision_tree) |
+| 10  | Naive-Bayes                                      | [accede](https://github.com/4GeeksAcademy/NaivesBayes) |
+| 11  | KNN                                              | [accede](https://github.com/4GeeksAcademy/KNN-TatianaCC) |
+| 12  | Temporal Series                                  | [accede](https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC) |
+| 13  | Clustering-Basic (K-Means)                       | [accede](https://github.com/4GeeksAcademy/kMeans_TatianaCC) |
+| 14  | NLP                                              | [accede]() |
+
 
 
 
