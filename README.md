@@ -145,11 +145,9 @@ Recently interested in:
 - Ethics in Data Science
 
 ## 4Geeks Academy Projects
-
 <p align="center">
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
-
 | #   | Proyect                                          | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 1   | Descriptive Statistics                           | [accede](https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python) |
@@ -165,8 +163,34 @@ Recently interested in:
 | 11  | KNN                                              | [accede](https://github.com/4GeeksAcademy/KNN-TatianaCC) |
 | 12  | Temporal Series                                  | [accede](https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC) |
 | 13  | Clustering-Basic (K-Means)                       | [accede](https://github.com/4GeeksAcademy/kMeans_TatianaCC) |
-| 14  | NLP                                              | [accede]() |
+| 14  | SVM                                              | [accede](https://github.com/4GeeksAcademy/SVM-TatianaCC) |
 
 
+## Astro-Projects
+<p align="center">
+  <img src="./Images/4Geeks.svg" width="100%">
+</p>
+| #   | Proyect                                                 | Link                                                  |
+| --- | ---------------------------------------------           | -------------------------------------------------------- |
+| 1   | Gult Belt stellar system (Collaboration with IAA-CSIC)  | [accede](https://github.com/TatianaCC/IAA_Project) |
 
+## Tools
+<p align="center">
+  <img src="./Images/Tools.svg" width="100%">
+</p>
+| #   | Proyect                                                 | Link                                                  |
+| --- | ---------------------------------------------           | -------------------------------------------------------- |
+| 1   | Library for complete EDA (Collaboration with @milser)   | [accede](https://github.com/milser/edas_tatianamilser) |
 
+## Future Projects
+<p align="center">
+  <img src="./Images/Open.svg" width="100%">
+</p>
+| #   | Proyect                                                                     | 
+| --- | ----------------------------------------------------------------------------| 
+| 1   | Identification of stellar structures through clustering                     | 
+| 2   | Morphological classification of galaxies using DNN (Deep Neural Networks)   | 
+
+If you're interested in any of these projects, let's work together!
+
+<button onclick="window.location.href='mailto:tatianacazorlacabezas@email.com'">Contact</button>
