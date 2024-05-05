@@ -151,46 +151,46 @@ Recently interested in:
 
 <table width="100%">
   <tr>
-    <td width="33.33%">
+    <td width="50%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
       <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">   Algorithm Optimization   </a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
       <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">   SQL Database   </a>
     </td>
   </tr>
   <tr>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/TatianaCC/web-scraping-project-tutorial">Web Scraping</a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/TatianaCC/interacting-with-api-python-project-tutorial">API Python</a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/TatianaCC/machine-learning-python-template">First EDA</a>
     </td>
   </tr>
   <tr>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/4GeeksAcademy/machine-learning-python-template-LinearRegression">Linear Regression</a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/4GeeksAcademy/regularized_linear_model">Regularized Linear Regression</a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/4GeeksAcademy/decision_tree">Decision Tree, Random Forest and Boosting</a>
     </td>
   </tr>
   <tr>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/4GeeksAcademy/NaivesBayes">Naive-Bayes</a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC">Temporal Series</a>
     </td>
-    <td width="33.33%">
+    <td width="50%">
         <a class="btn" href="https://github.com/4GeeksAcademy/kMeans_TatianaCC">Clustering-Basic (K-Means)</a>
     </td>
   </tr>
@@ -198,7 +198,7 @@ Recently interested in:
 
 ## Astro-Projects
 <p align="center">
-  <img src="./Images/4Geeks.svg" width="100%">
+  <img src="./Images/Astro.svg" width="100%">
 </p>
 
 <a class="btn" href="https://github.com/TatianaCC/IAA_Project">Gould Belt stellar system (Collaboration with IAA-CSIC)</a>
@@ -210,9 +210,6 @@ Recently interested in:
 </p>
 
 <a class="btn" href="https://github.com/milser/edas_tatianamilser">Library for complete EDA (Collaboration with @milser)</a>
-
-
-
 
 ## Future Projects
 <p align="center">
