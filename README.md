@@ -149,7 +149,7 @@ Recently interested in:
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td  width="33.33%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
@@ -201,7 +201,7 @@ Recently interested in:
   <img src="./Images/Astro.svg" width="100%">
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td  width="100%">
       <a class="btn" href="https://github.com/TatianaCC/IAA_Project">Gould Belt stellar system (Collaboration with IAA-CSIC)</a>
