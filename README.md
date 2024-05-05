@@ -151,20 +151,20 @@ Recently interested in:
 
 <table>
   <tr>
-    <td  width="33.33%">
+    <td  width="25%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
     </td>
-    <td width="33.33%">
+    <td width="25%">
       <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">   Algorithm Optimization   </a>
     </td>
-    <td width="33.33%">
+    <td width="25%">
       <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">   SQL Database   </a>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="25%">
         <a class="btn" href="https://github.com/TatianaCC/web-scraping-project-tutorial">Web Scraping</a>
     </td>
+  </tr>
+  <tr>    
     <td>
         <a class="btn" href="https://github.com/TatianaCC/interacting-with-api-python-project-tutorial">API Python</a>
     </td>
