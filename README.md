@@ -150,7 +150,7 @@ Recently interested in:
 </p>
 
 <table width="100%">
-  <tr width="100%">
+  <tr>
     <td width="33.33%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">Descriptive Statistics</a>
     </td>
@@ -165,7 +165,7 @@ Recently interested in:
     <td width="33.33%">
         <a class="btn" href="https://github.com/TatianaCC/web-scraping-project-tutorial">Web Scraping</a>
     </td>
-    <td swidth="33.33%">
+    <td width="33.33%">
         <a class="btn" href="https://github.com/TatianaCC/interacting-with-api-python-project-tutorial">API Python</a>
     </td>
     <td width="33.33%">
