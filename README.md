@@ -149,7 +149,7 @@ Recently interested in:
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
 
-<table width="200%">
+<table>
   <tr>
     <td width="33.33%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">Descriptive Statistics</a>
