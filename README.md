@@ -148,6 +148,38 @@ Recently interested in:
 <p align="center">
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">Descriptive Statistics</a>
+    </td>
+    <td>
+      <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">Algorithm Optimization</a>
+    </td>
+    <td>
+      <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">SQL Database</a>
+    </td>
+  </tr>
+  <!-- Añade más filas para más botones -->
+</table>
+
+<style>
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+</style>
+
 
 <div class="btn-container">
   <a class="btn" href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python">Descriptive Statistics</a>
