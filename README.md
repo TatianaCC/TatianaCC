@@ -152,46 +152,46 @@ Recently interested in:
 <table align="center">
   <tr>
     <td  width="33.33%">
-      <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
+      <a href="https://github.com/TatianaCC/DescriptiveStadistics_TatianaCC" class="btn">   Descriptive Statistics   </a>
     </td>
     <td width="33.33%">
-      <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">   Algorithm Optimization   </a>
+      <a href="https://github.com/TatianaCC/AlgorithmOptimization_TatianaCC" class="btn">   Algorithm Optimization   </a>
     </td>
     <td width="33.33%">
-      <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">   SQL Database   </a>
+      <a href="https://github.com/TatianaCC/ConnectSQL_TatianaCC" class="btn">   SQL Database   </a>
     </td>
   </tr>
   <tr>
     <td>
-        <a class="btn" href="https://github.com/TatianaCC/web-scraping-project-tutorial">Web Scraping</a>
+        <a class="btn" href="https://github.com/TatianaCC/WebScraping_TatianaCC">Web Scraping</a>
     </td>
     <td>
-        <a class="btn" href="https://github.com/TatianaCC/interacting-with-api-python-project-tutorial">API Python</a>
+        <a class="btn" href="https://github.com/TatianaCC/InteractingAPI-TatianaCC">API Python</a>
     </td>
     <td>
-        <a class="btn" href="https://github.com/TatianaCC/machine-learning-python-template">First EDA</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <a class="btn" href="https://github.com/4GeeksAcademy/machine-learning-python-template-LinearRegression">Linear Regression</a>
-    </td>
-    <td>
-        <a class="btn" href="https://github.com/4GeeksAcademy/regularized_linear_model">Regularized Linear Regression</a>
-    </td>
-    <td>
-        <a class="btn" href="https://github.com/4GeeksAcademy/decision_tree">Decision Tree, Random Forest and Boosting</a>
+        <a class="btn" href="https://github.com/TatianaCC/FirstEDA_TatianaCC">First EDA</a>
     </td>
   </tr>
   <tr>
     <td>
-        <a class="btn" href="https://github.com/4GeeksAcademy/NaivesBayes">Naive-Bayes</a>
+        <a class="btn" href="https://github.com/4GeeksAcademy/LinearRegression-TatianaCC">Linear Regression</a>
+    </td>
+    <td>
+        <a class="btn" href="https://github.com/4GeeksAcademy/RegularizedLinear-TatianaCC">Regularized Linear Regression</a>
+    </td>
+    <td>
+        <a class="btn" href="https://github.com/4GeeksAcademy/DecisionTree-RForest-Boosting_TatianaCC">Decision Tree, Random Forest and Boosting</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a class="btn" href="https://github.com/4GeeksAcademy/NaivesBayes_TatianaCC">Naive-Bayes</a>
     </td>
     <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC">Temporal Series</a>
     </td>
     <td>
-        <a class="btn" href="https://github.com/4GeeksAcademy/kMeans_TatianaCC">Clustering-Basic (K-Means)</a>
+        <a class="btn" href="https://github.com/4GeeksAcademy/K-Means_TatianaCC">Clustering (K-Means)</a>
     </td>
   </tr>
 </table>
