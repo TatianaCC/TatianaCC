@@ -151,18 +151,14 @@ Recently interested in:
 
 <table>
   <tr>
-    <td width="20%">
-    </td>
-    <td  width="20%">
+    <td  width="33.33%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
     </td>
-    <td width="20%">
+    <td width="33.33%">
       <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">   Algorithm Optimization   </a>
     </td>
-    <td width="20%">
+    <td width="33.33%">
       <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">   SQL Database   </a>
-    </td>
-    <td width="20%">
     </td>
   </tr>
   <tr>
@@ -205,7 +201,13 @@ Recently interested in:
   <img src="./Images/Astro.svg" width="100%">
 </p>
 
-<a class="btn" href="https://github.com/TatianaCC/IAA_Project">Gould Belt stellar system (Collaboration with IAA-CSIC)</a>
+<table>
+  <tr>
+    <td  width="100%">
+      <a class="btn" href="https://github.com/TatianaCC/IAA_Project">Gould Belt stellar system (Collaboration with IAA-CSIC)</a>
+    </td>
+  </tr>
+</table>
 
 
 ## Tools
