@@ -249,7 +249,11 @@ Recently interested in:
 </table>
 
 <p align="left">
-    If you're interested in any of these projects,<a href="mailto: tatianacazorlacabezas@gmail.com" class="btn">let's work together!</a>
+    If you're interested in any of these projects, let's work together!
 </p>
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tatiana-cazorla-cabezas-aabb511aa/)
+
 
 
