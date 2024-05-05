@@ -149,48 +149,48 @@ Recently interested in:
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
     </td>
-    <td width="50%">
+    <td>
       <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">   Algorithm Optimization   </a>
     </td>
-    <td width="50%">
+    <td>
       <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">   SQL Database   </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/TatianaCC/web-scraping-project-tutorial">Web Scraping</a>
     </td>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/TatianaCC/interacting-with-api-python-project-tutorial">API Python</a>
     </td>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/TatianaCC/machine-learning-python-template">First EDA</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/machine-learning-python-template-LinearRegression">Linear Regression</a>
     </td>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/regularized_linear_model">Regularized Linear Regression</a>
     </td>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/decision_tree">Decision Tree, Random Forest and Boosting</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/NaivesBayes">Naive-Bayes</a>
     </td>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC">Temporal Series</a>
     </td>
-    <td width="50%">
+    <td>
         <a class="btn" href="https://github.com/4GeeksAcademy/kMeans_TatianaCC">Clustering-Basic (K-Means)</a>
     </td>
   </tr>
