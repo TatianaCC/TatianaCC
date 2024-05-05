@@ -149,15 +149,15 @@ Recently interested in:
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
 
-<table width="500%">
+<table>
   <tr>
-    <td>
+    <td  width="34%">
       <a href="https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python" class="btn">   Descriptive Statistics   </a>
     </td>
-    <td>
+    <td width="34%">
       <a href="https://github.com/TatianaCC/algorithm-optimization-project-machine-learning" class="btn">   Algorithm Optimization   </a>
     </td>
-    <td>
+    <td width="34%">
       <a href="https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial" class="btn">   SQL Database   </a>
     </td>
   </tr>
