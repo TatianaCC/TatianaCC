@@ -231,11 +231,19 @@ Recently interested in:
 
 <table align="center">
   <tr>
-    <td  width="100%">
-      <a class="btn" href="mailto:tatianacazorlacabezas@email.com">Identification of stellar structures through clustering </a>
+    <td  width="10%">
+      1
     </td>
     <td  width="100%">
-      <a class="btn" href="mailto:tatianacazorlacabezas@email.com">Morphological classification of galaxies using DNN (Deep Neural Networks)</a>
+      Identification of stellar structures through clustering
+    </td>
+  </tr>
+  <tr>
+    <td  width="10%">
+      2
+    </td>
+    <td  width="100%">
+      Morphological classification of galaxies using DNN (Deep Neural Networks)
     </td>
   </tr>
 </table>
