@@ -148,9 +148,8 @@ Recently interested in:
 <p align="center">
   <img src="./Images/4Geeks.svg" width="100%">
 </p>
-<div>
-| #   | Proyect                                          | Link                                                  |
-| --- | ---------------------------------------------    | -------------------------------------------------------- |
+| #   | Proyecto                                         | Link                                                  |
+| --- | ----------------------------------------------- | ----------------------------------------------------- |
 | 1   | Descriptive Statistics                           | [accede](https://github.com/TatianaCC/descriptive-statistics-exercises-project-with-python) |
 | 2   | Algorithm Optimization                           | [accede](https://github.com/TatianaCC/algorithm-optimization-project-machine-learning) |
 | 3   | SQL Database                                     | [accede](https://github.com/TatianaCC/connecting-to-a-sql-database-project-tutorial) |
@@ -165,7 +164,7 @@ Recently interested in:
 | 12  | Temporal Series                                  | [accede](https://github.com/4GeeksAcademy/TemporalSeries-TatianaCC) |
 | 13  | Clustering-Basic (K-Means)                       | [accede](https://github.com/4GeeksAcademy/kMeans_TatianaCC) |
 | 14  | SVM                                              | [accede](https://github.com/4GeeksAcademy/SVM-TatianaCC) |
-</div>
+
 
 ## Astro-Projects
 <p align="center">
