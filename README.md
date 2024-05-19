@@ -194,6 +194,11 @@ Recently interested in:
         <a class="btn" href="https://github.com/4GeeksAcademy/K-Means_TatianaCC">Clustering (K-Means)</a>
     </td>
   </tr>
+  <tr>
+    <td>
+        <a class="btn" href="https://github.com/TatianaCC/Streamlit_TatianaCC">Streamlit</a>
+    </td>
+  </tr>
 </table>
 
 ## Astro-Projects
