@@ -133,7 +133,7 @@ Physics specialized in astrophysics, cosmology, biophysics, and complex systems,
 - Python for scientific and technical calculation (120h - 2019)
 
 ## My CV
-<a href="https://drive.google.com/file/d/1NNjN7rWYCHAg7EynrN-Lw17jXDvatkTk/view?usp=drive_link">Access</a>
+<a href="https://drive.google.com/file/d/1nXZFGnP6cp-r_FyWYHBymYRQnnscyPlA/view?usp=drive_link">Access</a>
 
 ## Exploring
 Recently interested in:
