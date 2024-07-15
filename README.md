@@ -209,16 +209,12 @@ Recently interested in:
 <table align="center">
   <tr>
     <td  width="100%">
-      <a class="btn" href="https://github.com/TatianaCC/IAA_Project">Gould Belt stellar system (Collaboration with IAA-CSIC)</a>
+      <a class="btn" href="https://github.com/TatianaCC/STARS_FinalProject">Stellar Association Recognition System (STARS)</a>
     </td>
   </tr>
-</table>
-
-
-<table align="center">
   <tr>
     <td  width="100%">
-      <a class="btn" href="https://github.com/TatianaCC/STARS_FinalProject">Stellar Association Recognition System (STARS)</a>
+      <a class="btn" href="https://github.com/TatianaCC/IAA_Project">Gould Belt stellar system (Collaboration with IAA-CSIC)</a>
     </td>
   </tr>
 </table>
@@ -246,18 +242,18 @@ Recently interested in:
 <table align="center">
   <tr>
     <td  width="10%">
-      1
-    </td>
-    <td  width="100%">
-      Identification of stellar structures through clustering
-    </td>
-  </tr>
-  <tr>
-    <td  width="10%">
       2
     </td>
     <td  width="100%">
       Morphological classification of galaxies using DNN (Deep Neural Networks)
+    </td>
+  </tr>
+  <tr>
+    <td  width="10%">
+      1
+    </td>
+    <td  width="100%">
+      To develop a user interface in Python for visual data analysis.
     </td>
   </tr>
 </table>
