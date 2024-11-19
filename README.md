@@ -106,7 +106,7 @@
 ## About me
 Physics specialized in astrophysics, cosmology, biophysics, and complex systems, currently working in R&D in biotechnology. Starting in Data Science and Machine Learning. Engaging in science communication in Spanish through various formats (blog, podcast, talks, etc.) Science rocks!
 
-## Idioms.
+## Languajes
 <a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
 </a>
@@ -133,7 +133,7 @@ Physics specialized in astrophysics, cosmology, biophysics, and complex systems,
 - Python for scientific and technical calculation (120h - 2019)
 
 ## My CV
-<a href="https://drive.google.com/file/d/1UEcBh4ygII2VdCvJDgSZJXmQadp7__s8/view?usp=drive_link">Access</a>
+<a href="https://drive.google.com/file/d/16h6XGyrdjSMoGUBK2oIxyGV3yrjPxpoU/view?usp=drive_link">Access</a>
 
 ## Exploring
 Recently interested in:
